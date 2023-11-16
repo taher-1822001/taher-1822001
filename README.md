@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=taher-1822001&style=flat-square&color=blueviolet" alt="Profile Views">
+</div>
 
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
