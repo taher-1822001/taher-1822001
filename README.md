@@ -14,8 +14,8 @@
 </div>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="80" />
-  <span style="vertical-align: top; margin-left: 10px;">Skills</span>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="60" />
+  <span style="vertical-align: top; margin-left: 10px;"><h2>Skills</h2></span>
 </div>
 
 <!--
