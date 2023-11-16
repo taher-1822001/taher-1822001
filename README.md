@@ -15,21 +15,6 @@
 
 
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  table td, table th {
-    border: none;
-  }
-</style>
-
-<table>
-  <tr>
-    <td>Left Content</td>
-    <td>Right Content</td>
-  </tr>
-</table>
 
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
