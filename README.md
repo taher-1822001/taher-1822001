@@ -47,9 +47,11 @@ https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="40" /> Projects
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Calculator](https://taher-1822001.github.io/calculator/)
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Markdown Previewer](https://taher-1822001.github.io/Markdown-Previewer/)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Random Quotes](https://taher-1822001.github.io/random-Quotes/)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Drum Machine](https://taher-1822001.github.io/drum-machine/)<br>
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="40" /> GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taher-1822001)](https://github.com/anuraghazra/github-readme-stats)
