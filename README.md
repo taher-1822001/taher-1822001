@@ -12,6 +12,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /><span>I'm a passionate  certified web developer specializing in Full Stack Web Development</span>
 
 </div>
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /><span>I'm a passionate  certified web developer specializing in Full Stack Web Development</span>
+
+</div>
 
 <div>
   ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> &nbsp; Skills
