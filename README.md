@@ -13,8 +13,7 @@
   
 </div>
 
-| <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> | Skills |
-|---|---|
+![Teacup Without Handle](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png) <h2>Skills</h2>
 
 
 
