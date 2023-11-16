@@ -23,8 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,mongodb,postgres&theme=light)](https://skillicons.dev)
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" />
- Tools
+# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" /> Tools
 ![My Tools](https://skillicons.dev/icons?i=vscode,github,eclipse,postman&theme=light)
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
