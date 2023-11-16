@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=taher-1822001&style=flat-square&color=cyanyellow" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=taher-1822001&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
 
 <div align="center">
