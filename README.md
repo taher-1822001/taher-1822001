@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=taher-1822001&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=taher-1822001&style=flat-square&color=cyan" alt="Profile Views">
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <a href="https://www.facebook.com/taher1822001"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"></a>
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,drf,mongodb,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,mongodb,postgres&theme=light)](https://skillicons.dev)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="40" /> Tools
 ![My Tools](https://skillicons.dev/icons?i=vscode,github,eclipse,postman&theme=light)
