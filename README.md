@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,djangorestframework,mongodb,postgres&theme=light)](https://skillicons.dev)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="40" /> Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,eclipse,postman&theme=light)]
+![My Tools](https://skillicons.dev/icons?i=vscode,github,eclipse,postman&theme=light)
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
