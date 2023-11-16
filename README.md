@@ -21,7 +21,7 @@
 <a href="https://www.facebook.com/taher1822001"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"></a>
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> Skills
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,express,node,django,figma&theme=light)](https://skillicons.dev)
 
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
