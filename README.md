@@ -13,10 +13,9 @@
   
 </div>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="80" />
-  <h2 style="display: inline-block; margin-left: 10px;">Skills</h2>
-</div>
+| ![Teacup Without Handle](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png) | Skills |
+|---|---|
+
 
 
 <!--
