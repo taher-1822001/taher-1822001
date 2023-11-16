@@ -13,12 +13,6 @@
   
 </div>
 
-<table border="0">
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /></td>
-    <td><h2>Skills</h2></td>
-  </tr>
-</table>
 
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
