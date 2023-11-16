@@ -36,18 +36,12 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="40" /> Certifications
 
-
-<!--
-**taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)
+- [Fundamentals of HTML](
+https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776f.pdf
+)
+- [Developer Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_adJLNMmQqGnpwzHv7_1665406852728_completion_certificate.pdf)
+- [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)
+- [Python](https://github.com/taher-1822001/Certificates/blob/master/PythonSkillup.pdf)
+- [Java](https://github.com/taher-1822001/Certificates/blob/master/Java.pdf)
+- [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
