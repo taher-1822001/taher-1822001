@@ -15,10 +15,22 @@
 
 
 
-<div>
-    <img src="[path/to/your/image.jpg](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)" alt="Image Description" width="40" height="40" style="float:left; margin-right:10px;">
-    <h2>Your Heading</h2>
-</div>
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  table td, table th {
+    border: none;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>Left Content</td>
+    <td>Right Content</td>
+  </tr>
+</table>
+
 <!--
 **taher-1822001/taher-1822001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
