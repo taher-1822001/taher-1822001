@@ -30,18 +30,18 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="40" /> Experience
 
-- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Health Compass PVT. LTD. [Full Stack Developer]
-- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Foruppo [Program Coordinator]
-- <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Accenture [Software tester]
+ <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Health Compass PVT. LTD. [Full Stack Developer]
+ <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Foruppo [Program Coordinator]
+ <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="20" /> Intern @Accenture [Software tester]
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="40" /> Certifications
 
-- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)
-- [Fundamentals of HTML](
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Fundamentals of HTML](
 https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776f.pdf
 )
-- [Developer Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_adJLNMmQqGnpwzHv7_1665406852728_completion_certificate.pdf)
-- [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)
-- [Python](https://github.com/taher-1822001/Certificates/blob/master/PythonSkillup.pdf)
-- [Java](https://github.com/taher-1822001/Certificates/blob/master/Java.pdf)
-- [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="120" /> [Developer Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_adJLNMmQqGnpwzHv7_1665406852728_completion_certificate.pdf)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Python](https://github.com/taher-1822001/Certificates/blob/master/PythonSkillup.pdf)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Java](https://github.com/taher-1822001/Certificates/blob/master/Java.pdf)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="120" /> [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
