@@ -55,5 +55,6 @@ https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="40" /> GitHub Stats
 
-[![GitHub stars](https://img.shields.io/github/stars/taher-1822001/repo.svg?style=social&label=Stars&maxAge=2592000)](https://github.com/username/repo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taher-1822001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
