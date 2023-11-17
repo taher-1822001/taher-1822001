@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/taher1822001"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"></a>
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,mongodb,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,sass,react,express,nodejs,django,mongodb,postgres&theme=dark&perline=6)](https://skillicons.dev)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" /> Tools
 ![My Tools](https://skillicons.dev/icons?i=vscode,powershell,bash,git,github,eclipse,postman&theme=light)
