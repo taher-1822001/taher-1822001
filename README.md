@@ -6,15 +6,16 @@
 <br><br>
 <div align="center">
 
-  # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hello! :wave: Welcome to my GitHub profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi there :wave: I am Taher Ahmed &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </div>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /><span>I'm a passionate  certified web developer specializing in Full Stack Web Development</span>
-
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /> I'm a passionate web developer certified in various web technologies, including React, Express, DRF, Node js, PostgresSQL etc..
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /> I love diving into full stack development, exploring new frameworks, and building responsive and user-friendly web applications.
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" />
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Connect With Me
+# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Find Me Around the Web
 
 <a href="https://www.linkedin.com/in/taher1822001"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"></a>
 <a href="https://www.instagram.com/taher1822001"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"></a>
@@ -41,11 +42,14 @@
 https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776f.pdf
 )<br>
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Developer Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_adJLNMmQqGnpwzHv7_1665406852728_completion_certificate.pdf)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Python](https://github.com/taher-1822001/Certificates/blob/master/PythonSkillup.pdf)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Java](https://github.com/taher-1822001/Certificates/blob/master/Java.pdf)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Responsive Web Design](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/responsive-web-design)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Javascript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Front End Development Libraries](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/front-end-development-libraries)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Back End Development Libraries](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/back-end-development-and-apis)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Relational Database](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/relational-database-v8)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Python](https://simpli.app.link/nNEq5Q68MEb)
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Java](https://simpli.app.link/Q7qlzQj9MEb)
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Machine Learning](https://github.com/taher-1822001/Certificates/blob/master/Machine%20Learning.pdf)
-
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="40" /> Projects
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Calculator](https://taher-1822001.github.io/calculator/)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> [Markdown Previewer](https://taher-1822001.github.io/Markdown-Previewer/)<br>
