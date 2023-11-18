@@ -10,9 +10,9 @@
 </div>
 
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /> I'm a passionate web developer certified in various web technologies, including React, Express, DRF, Node js, PostgresSQL etc..
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /> I'm a passionate web developer certified in various web technologies, including React, Express, DRF, Node js, PostgresSQL etc..<br>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" /> I love diving into full stack development, exploring new frameworks, and building responsive and user-friendly web applications.
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="24" />
+
 </div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Find Me Around the Web
