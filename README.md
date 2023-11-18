@@ -37,11 +37,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="40" /> Certifications
 
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Fundamentals of HTML](
-https://files.codingninjas.in/certificate-220538-7a611f511de5f61a0ec7ab72c088776f.pdf
-)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Developer Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_adJLNMmQqGnpwzHv7_1665406852728_completion_certificate.pdf)<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Responsive Web Design](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/responsive-web-design)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Javascript Algorithms and Data Structures](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/javascript-algorithms-and-data-structures)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="20" /> [Front End Development Libraries](https://freecodecamp.org/certification/fccbba60f73-45b1-40f1-bfee-dd221294f3f7/front-end-development-libraries)<br>
